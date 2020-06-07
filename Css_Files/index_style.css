@@ -76,3 +76,10 @@ h2 {
     margin: 40px;
     text-align: justify;
 }
+.form {
+    align-content: center;
+    border-radius: 5px;
+    background-color: transparent;
+    padding: 20px;
+    width: 500px;
+  }
